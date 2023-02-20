@@ -9,7 +9,7 @@ Code in cpp language for finding SVD decomposition using Jacobian iterations to 
 Works fast even for large and asymmetric matrices.
 
 
-Matrix for example:
+Matrix 5X5 for example:
 
 24, 521, 23, 23, 1
 3, 431, 5, 32, 43
